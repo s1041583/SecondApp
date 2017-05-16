@@ -1,0 +1,41 @@
+html, body{
+	position: fixed;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+	background: white;
+}
+.click {
+    height: 100px;
+	width: 300px;
+	background-color: red; /* Green */
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; 
+    margin: -50px -150px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+	
+
+
+header{
+	height: 33%;
+	width: 100%;
+}
+
+footer{
+	height: 33%;
+	width: 100%;
+}
+
+
+div#click{
+	height: 34%;
+	width: 100%;
+	background: white;	
+}
